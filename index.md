@@ -14,4 +14,4 @@
 ### 自定义金额
 
 ![](assets/alipay.jpg)
-![](assets/wechatpay_5.jpg)
+![](assets/wechatpay.jpg)
